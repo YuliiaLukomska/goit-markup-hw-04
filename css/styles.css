@@ -147,7 +147,7 @@ img {
   min-width: 169px;
   height: 56px;
   border: none;
-  position: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .button:hover,
 .button:focus {
