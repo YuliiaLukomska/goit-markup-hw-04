@@ -89,7 +89,7 @@ img {
 .nav-link:focus {
   color: #404bbf;
 }
-.nav-link::after {
+.nav-studio::after {
   content: '';
   height: 4px;
   width: 48px;
@@ -98,12 +98,6 @@ img {
   border-radius: 2px;
   left: 0px;
   bottom: -1px;
-}
-.nav-portfolio::after {
-  width: 66px;
-}
-.nav-contacts::after {
-  width: 67px;
 }
 
 .address {
